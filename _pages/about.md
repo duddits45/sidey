@@ -1,28 +1,25 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+### Hi, I'm Dan
 
-### Features
+![P1014883-2](https://syno.danieln.uk/static/P1015161-Edit-border.jpg)
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+I enjoy photography, thunderstorms, listening to the blues, and [horror films](tab:https://letterboxd.com/duddits45/films/).
 
-### Screenshot
+You might find me chasing storms across North America, hunting the aurora in the night sky, or on the coast during a wind storm.
 
-![Screenshot](screenshot.png)
+### Camera Gear 
+If you're really interested, I'm currently shooting with:-
+
+* OM-1 Mark II
+* OM 12-40 f2.8 Pro II
+* Olympus 40-150 f2.8 Pro
+* Olympus 7-14 f2.8 Pro
+
+### Contact Me
+
+Want to say hi? Please send me a [message](https://letterbird.co/danieln).
