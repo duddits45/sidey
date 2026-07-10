@@ -16,6 +16,7 @@
 html, body {
 	background-color: var(--bg-color) !important;
 	color: var(--text-color) !important;
+	scrollbar-gutter: stable; /* Fixes layout shifting left/right between pages */
 }
 
 body {
