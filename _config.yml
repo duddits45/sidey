@@ -14,7 +14,7 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: "duddits45.github.io/sidey/"
+baseurl: "/sidey"
 
 highlighter: none
 
